@@ -1,7 +1,10 @@
   
 ## Demo working example
  1. This had been tested. Features include normal screenshot, fullpage scroll screenshot, compare screenshot in selenium webdriver chrome cucumber js.
- 2. See the link  [https://seanlon.github.io/cucumber-js-selenium-fullpage-screenshot/reports/cucumber_report.html](https://seanlon.github.io/cucumber-js-selenium-fullpage-screenshot/reports/cucumber_report.html)
+ 2. See the link REPORTS  [https://seanlon.github.io/cucumber-js-selenium-fullpage-screenshot/reports/cucumber_report.html](https://seanlon.github.io/cucumber-js-selenium-fullpage-screenshot/reports/cucumber_report.html)
+ 3. Image for fullpage screenshot![alt text](https://github.com/seanlon/cucumber-js-selenium-fullpage-screenshot/blob/main/images/fullpage-screenshot.png?raw=true)
+ 4. Image for normal screenshot![alt text](https://github.com/seanlon/cucumber-js-selenium-fullpage-screenshot/blob/main/images/normal-screenshot.png?raw=true)
+ 5. Image for two images visual comparisions screenshot![alt text](https://github.com/seanlon/cucumber-js-selenium-fullpage-screenshot/blob/main/images/different-1-vs-2-screenshot.png?raw=true)
  
 ## Starting up
  1. To start `npm install`
