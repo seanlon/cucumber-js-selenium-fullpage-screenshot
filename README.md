@@ -1,3 +1,7 @@
+  
+## Demo working example
+ 1. This had been tested. Features include normal screenshot, fullpage scroll screenshot, compare screenshot in selenium webdriver chrome cucumber js.
+ 2. See the link 
  
 ## Starting up
  1. To start `npm install`
