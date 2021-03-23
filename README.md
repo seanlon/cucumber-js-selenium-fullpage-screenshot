@@ -1,8 +1,7 @@
   
 ## Demo working example
  1. This had been tested. Features include normal screenshot, fullpage scroll screenshot, compare screenshot in selenium webdriver chrome cucumber js.
- 2. See the link 
- 
+ 2. See the link  [https://seanlon.github.io/cucumber-js-selenium-fullpage-screenshot/reports/cucumber_report.html](https://seanlon.github.io/cucumber-js-selenium-fullpage-screenshot/reports/cucumber_report.html)
 ## Starting up
  1. To start `npm install`
  2. Follow your browser chrome version, example if 89 `npm i --save chromedriver@^89.0.0`
